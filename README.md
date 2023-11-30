@@ -1,5 +1,5 @@
 # leetSync
-##Leetcode Solutions
+## Leetcode Solutions
 This repository contains my solutions for some problems from Leetcode, an online platform for practicing programming skills and interview preparation. The problems are organized by difficulty level (easy, medium and hard) and by topic (arrays, strings, trees, etc.). Each problem has a separate file with the source code of the solution, a brief explanation of the algorithm used and the time and space complexity.
 
 ## Soluções de LeetCode
